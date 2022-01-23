@@ -1,0 +1,13 @@
+{
+  "spider": {
+    "glyph": {
+      "character": "s",
+      "colour": "#2e0e0e"
+    },
+
+    "description": {
+      "name": "Spider",
+      "description": "An abnormally large spider"
+    }
+  }
+}

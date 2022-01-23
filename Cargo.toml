@@ -1,0 +1,15 @@
+[package]
+name = "protogue"
+version = "0.1.0"
+
+[dependencies]
+bracket-lib = "0.8.1"
+legion = "0.3.0"
+shred = "0.10.2"
+ndarray = "0.14.0"
+num-traits = "0.2.12"
+rand = "0.7.3"
+serde = { version = "1.0.115", features = ["derive"] }
+serde_json = "1.0.57"
+lazy_static = "1.4.0"
+object_derive = { path = "src/object_derive" }

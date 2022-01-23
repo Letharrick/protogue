@@ -1,0 +1,12 @@
+[package]
+name = "object_derive"
+version = "0.1.0"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+bracket-lib = "0.8.1"
+proc-macro2 = "1.0.22"
+syn = "1.0.41"
+quote = "1.0.7"

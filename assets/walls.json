@@ -1,0 +1,14 @@
+{
+  "cave": {
+    "barrier":  {},
+    "glyph": {
+      "character": "#",
+      "colour": "#9f6bff"
+    },
+
+    "description": {
+      "name": "Cave wall",
+      "description": "A cold, jagged wall"
+    }
+  }
+}

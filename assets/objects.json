@@ -1,0 +1,115 @@
+{
+  "red_gem": {
+    "glyph": {
+      "character": "*",
+      "colour": "#ff0044"
+    },
+
+    "description": {
+      "name": "Red gem",
+      "description": "A small, glowing gem"
+    },
+
+    "weight": {
+      "grams": 1
+    },
+
+    "light": {
+      "colour": "#ff0044",
+      "intensity": 0.5,
+      "radius": 3
+    }
+  },
+
+  "green_gem": {
+    "glyph": {
+      "character": "*",
+      "colour": "#29ff82"
+    },
+
+    "description": {
+      "name": "Green gem",
+      "description": "A small, glowing gem"
+    },
+
+    "weight": {
+      "grams": 1
+    },
+
+    "light": {
+      "colour": "#29ff82",
+      "intensity": 0.5,
+      "radius": 3
+    }
+  },
+
+  "blue_gem": {
+    "glyph": {
+      "character": "*",
+      "colour": "#75edff"
+    },
+
+    "description": {
+      "name": "Blue gem",
+      "description": "A small, glowing gem"
+    },
+
+    "weight": {
+      "grams": 1
+    },
+
+    "light": {
+      "colour": "#75edff",
+      "intensity": 0.5,
+      "radius": 3
+    }
+  },
+
+  "glass_shard": {
+      "glyph": {
+        "character": ";",
+        "colour": "#a1e9ff"
+      },
+
+      "description": {
+        "name": "Glass shard",
+        "description": "A small shard of glass"
+      },
+
+      "weight": {
+        "grams": 1
+      }
+  },
+
+  "bone": {
+    "glyph": {
+      "character": "|",
+      "colour": "#feffe3"
+    },
+
+    "description": {
+      "name": "Bone",
+      "description": "A dusty bone"
+    },
+
+    "weight": {
+      "grams": 3
+    }
+  },
+
+  "moss": {
+    "glyph": {
+      "character": "m",
+      "colour": "#b0ffd6"
+    },
+
+    "description": {
+      "name": "Moss",
+      "description": "Mossy moss"
+    },
+
+    "weight": {
+      "grams": 1
+    }
+  }
+}
